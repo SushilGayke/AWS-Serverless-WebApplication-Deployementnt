@@ -1,4 +1,4 @@
-# "AWS-Serverless-WebApplication-Deployment"
+# AWS-Serverless-WebApplication-Deployment
 Launched Serverless Web Application with AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito
 
 
