@@ -1,5 +1,5 @@
 # AWS-Serverless-WebApplication-Deployment
-Launched Serverless Web Application with AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito
+Launched Serverless Web Application with AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognit
 
 
 Follow step-by-step instructions to create a simple serverless web application that enables users to request unicorn rides from the Wild Rydes fleet.
